@@ -24,7 +24,9 @@ PisoNet is a coin-operated PC time system for local networks. It consists of an 
 
 ### 2. Run Master Installer
 - Download all files to your Windows PC.
-- Run `installers/master_installer.bat`.
+- Open Command Prompt as Administrator.
+- Navigate to the downloaded folder (e.g., cd Downloads\BB\installers).
+- Run `master_installer.bat`.
 - Enter OPI IP and root password when prompted.
 - This will install server, client, and admin components.
 
