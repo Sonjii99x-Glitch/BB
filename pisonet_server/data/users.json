@@ -1,0 +1,12 @@
+{
+  "users": {
+    "player1": {
+      "password": "hashed_password",
+      "time_remaining": 45
+    },
+    "player2": {
+      "password": "hashed_password",
+      "time_remaining": 0
+    }
+  }
+}

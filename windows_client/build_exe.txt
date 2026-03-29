@@ -1,0 +1,3 @@
+# Build client.exe using PyInstaller
+# Run: pip install pyinstaller
+# Then: pyinstaller --onefile client.py

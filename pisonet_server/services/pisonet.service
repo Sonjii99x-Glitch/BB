@@ -1,0 +1,14 @@
+[Unit]
+Description=PisoNet Flask API Server
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/pisonet/api
+ExecStart=/usr/bin/python3 /root/pisonet/api/app.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,8 @@
+{
+  "server_ip": "192.168.1.100",
+  "branding": {
+    "name": "PisoNet",
+    "theme": "dark"
+  },
+  "sound_alerts": true
+}

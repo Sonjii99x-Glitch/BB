@@ -1,0 +1,9 @@
+{
+  "coin_value": 1,
+  "max_clients": 2,
+  "trial_mode": true,
+  "branding": {
+    "name": "PisoNet",
+    "theme": "dark"
+  }
+}
