@@ -10,6 +10,11 @@ PisoNet is a coin-operated PC time system for local networks. It consists of an 
 - **Installers**: One-click BAT files for deployment.
 - **SD Image Builder**: Creates ready-to-flash images for Orange Pi.
 
+## Prerequisites
+- Windows PC with PuTTY installed (for pscp and plink commands).
+- Orange Pi with Armbian flashed and booted.
+- DHCP IP noted for OPI.
+
 ## Deployment Instructions
 
 ### 1. Prepare Orange Pi
