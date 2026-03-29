@@ -6,7 +6,7 @@
 echo "Installing dependencies..."
 apt update
 echo "Installing Python dependencies..."
-pip3 install -r /root/pisonet/requirements.txt
+pip3 install --break-system-packages -r /root/pisonet/requirements.txt
 
 echo "Creating directories..."
 mkdir -p /root/pisonet/api
